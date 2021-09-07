@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /Users/tomjoht/Library/Application Support/OxygenXMLEditor/samples/dita/lw-dita/temp/webhelp-responsive?><?workdir-uri file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/temp/webhelp-responsive/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD XDITA Map//EN?><?doctype-system map.dtd?><map xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map xdita-c) (topic hi-d) (map mapgroup-d)" id="Flowers_by_Season" specializations="" xtrc="map:1;3:30" xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/flowers.ditamap">
+  <topicmeta class="- map/topicmeta " xtrc="topicmeta:1;4:14" xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/flowers.ditamap">
+    <navtitle class="- topic/navtitle " xtrc="navtitle:1;5:15" xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/flowers.ditamap">Growing Flowers</navtitle>
+  </topicmeta>
+  <topicref href="topics/index.dita" class="- map/topicref " locktitle="yes" xtrc="topicref:1;7:38" xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/flowers.ditamap">
+    <topicref href="topics/springFlowers.dita" class="- map/topicref " locktitle="yes" xtrc="topicref:2;8:48" xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/flowers.ditamap">
+      <topicref href="topics/flowers/iris.dita" class="- map/topicref " locktitle="yes" xtrc="topicref:3;9:50" xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/flowers.ditamap"/>
+      <topicref href="topics/flowers/snowdrop.dita" class="- map/topicref " locktitle="yes" xtrc="topicref:4;10:54" xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/flowers.ditamap"/>
+      <topicref href="concepts/waterhose.md" class="- map/topicref " dita-ot:orig-format="markdown" format="dita" locktitle="yes" xtrc="topicref:5;11:65" xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/flowers.ditamap"/>
+    </topicref>
+    <topicref href="topics/summerFlowers.dita" class="- map/topicref " locktitle="yes" xtrc="topicref:6;13:48" xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/flowers.ditamap">
+      <topicref href="topics/flowers/gardenia.dita" class="- map/topicref " locktitle="yes" xtrc="topicref:7;14:54" xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/flowers.ditamap"/>
+      <topicref href="topics/flowers/lilac.dita" class="- map/topicref " locktitle="yes" xtrc="topicref:8;15:51" xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/flowers.ditamap"/>
+    </topicref>
+    <topicref href="topics/autumnFlowers.dita" class="- map/topicref " locktitle="yes" xtrc="topicref:9;17:48" xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/flowers.ditamap">
+      <topicref href="topics/flowers/chrysanthemum.dita" class="- map/topicref " locktitle="yes" xtrc="topicref:10;18:59" xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/flowers.ditamap"/>
+      <topicref href="topics/flowers/salvia.dita" class="- map/topicref " locktitle="yes" xtrc="topicref:11;19:52" xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/flowers.ditamap"/>
+    </topicref>
+    <topicref href="topics/winterFlowers.dita" class="- map/topicref " locktitle="yes" xtrc="topicref:12;21:48" xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/flowers.ditamap">
+      <topicref href="topics/flowers/gerbera.dita" class="- map/topicref " locktitle="yes" xtrc="topicref:13;22:53" xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/flowers.ditamap"/>
+    </topicref>
+  </topicref>
+  <topicref href="topics/copyright.dita" class="- map/topicref " locktitle="yes" xtrc="topicref:14;25:42" xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/flowers.ditamap">
+    <topicmeta class="- map/topicmeta " xtrc="topicmeta:2;26:16" xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/flowers.ditamap">
+      <data class="- topic/data " name="wh-tile" xtrc="data:1;27:28" xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/flowers.ditamap">
+        <data class="- topic/data " name="hide" value="yes" xtrc="data:2;28:40" xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/flowers.ditamap"/>
+      </data>
+    </topicmeta>
+  </topicref>
+</map>

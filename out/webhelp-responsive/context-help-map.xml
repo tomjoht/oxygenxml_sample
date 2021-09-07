@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="installation" path="topics/installation.html"/>
+   <appContext helpID="installation_on_windows"
+               path="tasks/installation_on_windows.html"/>
+   <appContext helpID="installation_on_mac" path="tasks/installation_on_mac.html"/>
+   <appContext helpID="ui" path="topics/ui.html"/>
+   <appContext helpID="tss20" path="topics/login_screen.html"/>
+   <appContext helpID="troubleshooting" path="topics/troubleshooting.html"/>
+   <appContext helpID="installation_on_windows"
+               path="tasks/installation_on_windows.html"/>
+   <appContext helpID="installation_on_mac" path="tasks/installation_on_mac.html"/>
+</map>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /Users/tomjoht/Library/Application Support/OxygenXMLEditor/samples/dita/lw-dita/temp/webhelp-responsive/topics?><?workdir-uri file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/temp/webhelp-responsive/topics/?><?path2project ../?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD XDITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="index" ditaarch:DITAArchVersion="1.3" domains="(topic xdita-c) (topic hi-d) (topic h5m-d)" class="- topic/topic " xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/topics/index.dita" xtrc="topic:1;3:19" specializations="">
+  <title class="- topic/title " xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/topics/index.dita" xtrc="title:1;4:10">Flowers by Season</title>
+  <shortdesc class="- topic/shortdesc " xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/topics/index.dita" xtrc="shortdesc:1;5:14">Flowers and seasons are intimately bound to each other. Most of the flowers are
+    season-specific.</shortdesc>
+  <body class="- topic/body " xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/topics/index.dita" xtrc="body:1;7:9">
+    <p class="- topic/p " xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/topics/index.dita" xtrc="p:1;8:8">The various climatic changes that occur in cyclic pattern are termed as 'Seasons'. There
+      are four general seasons occurring on Earth - Spring, Summer, Autumn and Winter.</p>
+    <p class="- topic/p " xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/topics/index.dita" xtrc="p:2;10:8">Flowers and seasons are intimately bound to each other. Most of the flowers are
+      season-specific. However, some flowers are found throughout the year, not particularly
+      affected by changing seasons.</p>
+  </body>
+</topic>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /Users/tomjoht/Library/Application Support/OxygenXMLEditor/samples/dita/lw-dita/temp/webhelp-responsive/topics?><?workdir-uri file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/temp/webhelp-responsive/topics/?><?path2project ../?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD XDITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="autumnFlowers" ditaarch:DITAArchVersion="1.3" domains="(topic xdita-c) (topic hi-d) (topic h5m-d)" class="- topic/topic " xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/topics/autumnFlowers.dita" xtrc="topic:1;3:27" specializations="">
+    <title class="- topic/title " xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/topics/autumnFlowers.dita" xtrc="title:1;4:12">Autumn Flowers</title>
+    <body class="- topic/body " xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/topics/autumnFlowers.dita" xtrc="body:1;5:11">
+        <p class="- topic/p " xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/topics/autumnFlowers.dita" xtrc="p:1;6:12">Autumn is the season of the primary harvest. Autumn falls during September - November in
+            the Northern hemisphere, and during March - June in the Southern hemisphere. Crops are
+            harvested during Autumn. Leaves change color are at their beautiful best.</p>
+        <p class="- topic/p " xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/topics/autumnFlowers.dita" xtrc="p:2;9:12">Some of the flowers blooming in autumn are: Acashia,
+            Allium, Alstromeria, Amaranthus, Anemone, Baby's Breath, Bittersweet, Carnation, China
+            berry, Chrysanthemum, Cockscomb, Cosmos, Echinops, Freesia, Gerbera Daisy, Gladiolus,
+            Hypericum, Iris, Juniper, Kangaroo paw, Kalancheo, Liatrus, Lily, Asiatic, Lily,
+            Gloriosa, Misty Blue, Orchid, Pepper berry, Protea, Queen Ann's Lace, Quince, Rover,
+            Roses, Rowen berry, Salvia, Solidago, Statice, Star of Bethlehem, Sunflower, Yarrow,
+            Zinnia.</p>
+    </body>
+</topic>

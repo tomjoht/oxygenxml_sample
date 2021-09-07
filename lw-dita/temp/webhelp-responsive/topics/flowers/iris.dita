@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /Users/tomjoht/Library/Application Support/OxygenXMLEditor/samples/dita/lw-dita/temp/webhelp-responsive/topics/flowers?><?workdir-uri file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/temp/webhelp-responsive/topics/flowers/?><?path2project ../../?><?path2project-uri ../../?><?path2rootmap-uri ../../?><?doctype-public -//OASIS//DTD XDITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="iris" ditaarch:DITAArchVersion="1.3" domains="(topic xdita-c) (topic hi-d) (topic h5m-d)" class="- topic/topic " xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/topics/flowers/iris.dita" xtrc="topic:1;3:18" specializations="">
+    <title class="- topic/title " xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/topics/flowers/iris.dita" xtrc="title:1;4:12">Iris</title>
+    <body class="- topic/body " xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/topics/flowers/iris.dita" xtrc="body:1;5:11">
+        <p class="- topic/p " xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/topics/flowers/iris.dita" xtrc="p:1;6:12"><i class="+ topic/ph hi-d/i " xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/topics/flowers/iris.dita" xtrc="i:1;6:15">From Wikipedia, the free encyclopedia.</i></p>
+        <p class="- topic/p " xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/topics/flowers/iris.dita" xtrc="p:2;7:12"><b class="+ topic/ph hi-d/b " xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/topics/flowers/iris.dita" xtrc="b:1;7:15">Iris</b> is a genus of between 200-300 species of flowering plants with showy flowers.
+            It takes its name from the Greek word for a <i class="+ topic/ph hi-d/i " xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/topics/flowers/iris.dita" xtrc="i:2;8:60">rainbow</i>, referring to the wide
+            variety of flower colors found among the many species. As well as being the scientific
+            name, iris is also very widely used as a common name; for one thing, it refers to all
+                <b class="+ topic/ph hi-d/b " xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/topics/flowers/iris.dita" xtrc="b:2;11:20">Iris</b> species, but some plants called thus belong to closely related genera.
+            In North America, a common name for irises is <b class="+ topic/ph hi-d/b " xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/topics/flowers/iris.dita" xtrc="b:3;12:62">flags</b>, while the subgenus
+                <b class="+ topic/ph hi-d/b " xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/topics/flowers/iris.dita" xtrc="b:4;13:20">Scorpiris</b> is widely known as <b class="+ topic/ph hi-d/b " xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/topics/flowers/iris.dita" xtrc="b:5;13:56">junos</b>, particularly in horticulture.</p>
+        <p class="- topic/p " xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/topics/flowers/iris.dita" xtrc="p:3;14:12"><image href="../../images/Iris_sanguinea.jpg" class="- topic/image " xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/topics/flowers/iris.dita" xtrc="image:1;14:59"/></p>
+        <p class="- topic/p " xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/topics/flowers/iris.dita" xtrc="p:4;15:12">The genus is widely distributed throughout the north temperate zone. Their habitats are considerably varied,
+            ranging from cold and mountain regions to the grassy slopes, meadowlands and riverbanks
+            of Europe, the Middle East and northern Africa, Asia and across North America.</p>
+        <p class="- topic/p " xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/topics/flowers/iris.dita" xtrc="p:5;18:12">The inflorescences are fan-shaped and contain one or more symmetrical six-lobed flowers.
+            These grow on a pedicel or lack a footstalk. The three sepals, which are
+            spreading or droop downwards, are referred to as "falls". They expand from their narrow
+            base, which in some of the rhizomatous irises has a "beard" (a tuft of short upright
+            extensions growing in its midline), into a broader expanded portion ("limb"), often
+            adorned with veining, lines or dots. The three, sometimes reduced, petals stand upright,
+            partly behind the sepal bases. They are called "standards". Some smaller iris species
+            have all six lobes pointing straight outwards, but generally, limb and standards differ
+            markedly in appearance. They are united at their base into a floral tube that lies above
+            the ovary. The styles divide towards the apex into petaloid branches; this is
+            significant in pollination.</p>
+        <p class="- topic/p " xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/topics/flowers/iris.dita" xtrc="p:6;29:12">The iris flower is of special interest as an example of the relation between flowering
+            plants and pollinating insects. The shape of the flower and the position of the
+            pollen-receiving and stigmatic surfaces on the outer petals form a landing-stage for a
+            flying insect, which in probing the perianth for nectar, will first come in contact of
+            perianth, then with the stigmatic stamens in one whorled surface which is borne on an
+            ovary formed of three carpels. The shelf-like transverse projection on the inner whorled
+            underside of the stamens is beneath the over-arching style arm below the stigma, so that
+            the insect comes in contact with its pollen-covered surface only after passing the
+            stigma; in backing out of the flower it will come in contact only with the non-receptive
+            lower face of the stigma. Thus, an insect bearing pollen from one flower will, in
+            entering a second, deposit the pollen on the stigma; in backing out of a flower, the
+            pollen which it bears will not be rubbed off on the stigma of the same flower. </p>
+    </body>
+</topic>

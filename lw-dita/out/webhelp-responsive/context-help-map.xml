@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="index" path="topics/index.html"/>
+   <appContext helpID="springFlowers" path="topics/springFlowers.html"/>
+   <appContext helpID="iris" path="topics/flowers/iris.html"/>
+   <appContext helpID="snowdrop" path="topics/flowers/snowdrop.html"/>
+   <appContext helpID="water-hose" path="topics/flowers/waterhose.html"/>
+   <appContext helpID="summerFlowers" path="topics/summerFlowers.html"/>
+   <appContext helpID="gardenia" path="topics/flowers/gardenia.html"/>
+   <appContext helpID="lilac" path="topics/flowers/lilac.html"/>
+   <appContext helpID="autumnFlowers" path="topics/autumnFlowers.html"/>
+   <appContext helpID="chrysanthemum" path="topics/flowers/chrysanthemum.html"/>
+   <appContext helpID="salvia" path="topics/flowers/salvia.html"/>
+   <appContext helpID="winterFlowers" path="topics/winterFlowers.html"/>
+   <appContext helpID="gerbera" path="topics/flowers/gerbera.html"/>
+   <appContext helpID="copyright" path="topics/copyright.html"/>
+</map>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /Users/tomjoht/Library/Application Support/OxygenXMLEditor/samples/dita/lw-dita/temp/webhelp-responsive/topics?><?workdir-uri file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/temp/webhelp-responsive/topics/?><?path2project ../?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD XDITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="winterFlowers" ditaarch:DITAArchVersion="1.3" domains="(topic xdita-c) (topic hi-d) (topic h5m-d)" class="- topic/topic " xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/topics/winterFlowers.dita" xtrc="topic:1;3:27" specializations="">
+    <title class="- topic/title " xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/topics/winterFlowers.dita" xtrc="title:1;4:12">Winter Flowers</title>
+    <body class="- topic/body " xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/topics/winterFlowers.dita" xtrc="body:1;5:11">
+        <p class="- topic/p " xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/topics/winterFlowers.dita" xtrc="p:1;6:12">Winter is the season of cold weather. The season occurs during December - February in
+            Northern
+            hemisphere<?oxy_delete author="Mary" timestamp="20120510T124126+0300" content=" " comment="Delete any extra spacing before and after punctuation marks."?>.
+            In the Southern hemisphere winter occurs during June - August. </p>
+        <p class="- topic/p " xtrf="file:/Users/tomjoht/Library/Application%20Support/OxygenXMLEditor/samples/dita/lw-dita/topics/winterFlowers.dita" xtrc="p:2;10:12">Some of the flowers blooming
+            <?oxy_delete author="Mary" timestamp="20120510T124054+0300" content=" " comment="Also use a single space between words."?>in
+            winter are: Acashia, Alstromeria, Amaryllis, Carnation, Chrysanthemums, Cyclamen,
+            Evergreens, Gerbera Daisy, Ginger, Helleborus, Holly berry, Lily, Asiatic Lily, Casa
+            Blanca Lily,
+            <?oxy_comment_start author="John" timestamp="20120510T124636+0300" comment="We should include one more topic with information about Narcissus."?>Narcissus<?oxy_comment_end?>,
+            Orchid, Pansy, Pepperberry, Phlox, Protea, Queen Ann's Lace,
+            <?oxy_comment_start author="Bob" timestamp="20120510T124701+0300" comment="It&apos;s a good idea to add more plants (consider including also Roses)."?>Roses<?oxy_comment_end?>,
+            Star of Bethlehem, Statice. </p>
+    </body>
+</topic><?oxy_options track_changes="on"?>
