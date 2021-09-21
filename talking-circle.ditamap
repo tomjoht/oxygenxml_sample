@@ -5,6 +5,8 @@
  <topicref href="topics/installation.dita">
   <topicref keyref="windows_installation"/>
   <topicref keyref="mac_installation"/>
+  <topicref href="markdown-dita/concepts/waterhose.md" format="markdown" />
+  <topicref href="markdown-dita/concepts/sometopic.md" format="markdown" />
  </topicref>
  <topicref href="topics/ui.dita">
   <topicref href="topics/login_screen.dita"/>

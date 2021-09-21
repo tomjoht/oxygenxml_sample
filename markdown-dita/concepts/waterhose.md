@@ -19,14 +19,33 @@ Keep the hose coiled on a large hook near a water spout.
    
 1. continuing the list
 
-   ```javascript
-   // the hello world program
-   console.log('Hello World');
+   ```css
+    input[type="submit"] {
+    color: white;
+    font-weight: bold;
    ```
 
-1. the <b>amazon</b> list **continues**:
+   And an image:
+   
+   <a href="http://nytimes.com"><img src="../image/carwash.jpg"/></a>    
+   
+   And here is some more code: 
+   
+   ```java
+   public class AddTwoNumbers {
 
-   <table>
+   public static void main(String[] args) {
+        
+      int num1 = 5, num2 = 15, sum;
+      sum = num1 + num2;
+
+      System.out.println("Sum of these numbers: "+sum);
+   }
+   }
+   ```
+1.  the <b>amazon</b> list **continues**:
+
+    <table>
        <tr>
           <td>Foo1</td>
           <td>Foo2</td>
@@ -42,8 +61,6 @@ Keep the hose coiled on a large hook near a water spout.
    ![A beautiful flower](../image/carwash.jpg "Chrysanthemum")
 
 4. another list item:
-   
-   <a href="http://nytimes.com"><img src="../image/carwash.jpg"/></a> 
   
 5. Continuing on...
 5. another item

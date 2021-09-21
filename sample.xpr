@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="18.1">
+<project>
     <meta>
         <filters directoryPatterns="" filePatterns="talking-circle.xpr" positiveFilePatterns="" showHiddenFiles="false"/>
         <options>
-            <serialized version="18.1" xml:space="preserve">
+            <serialized xml:space="preserve">
                 <serializableOrderedMap>
+                    <entry>
+                        <String>keys.context</String>
+                        <String>${pdu}/talking-circle.ditamap</String>
+                    </entry>
                     <entry>
                         <String>scenario.associations</String>
                         <scenarioAssociation-array>
@@ -20,6 +24,11 @@
                                 <field name="scenarioTypes">
                                     <list>
                                         <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
                                     </list>
                                 </field>
                             </scenarioAssociation>
@@ -76,6 +85,12 @@
                                     <null/>
                                 </field>
                                 <field name="webhelpResponsiveTemplate">
+                                    <null/>
+                                </field>
+                                <field name="publishingTemplateDataPO">
+                                    <null/>
+                                </field>
+                                <field name="oxygenFeedbackPO">
                                     <null/>
                                 </field>
                                 <field name="additionalAntArgs">
@@ -184,9 +199,6 @@
                                 <field name="openInBrowser">
                                     <Boolean>true</Boolean>
                                 </field>
-                                <field name="outputFile">
-                                    <null/>
-                                </field>
                                 <field name="outputResource">
                                     <null/>
                                 </field>
@@ -290,6 +302,12 @@
                                         </field>
                                     </webhelpTemplate>
                                 </field>
+                                <field name="publishingTemplateDataPO">
+                                    <null/>
+                                </field>
+                                <field name="oxygenFeedbackPO">
+                                    <null/>
+                                </field>
                                 <field name="additionalAntArgs">
                                     <String></String>
                                 </field>
@@ -301,33 +319,6 @@
                                 </field>
                                 <field name="ditaParams">
                                     <list>
-                                        <ditaParameter>
-                                            <field name="name">
-                                                <String>webhelp.fragment.before.main.page.search</String>
-                                            </field>
-                                            <field name="description">
-                                                <null/>
-                                            </field>
-                                            <field name="value">
-                                                <String>&lt;div style='text-align:center;font-size:4em;color:gray'>What are you looking for?&lt;/div></String>
-                                            </field>
-                                            <field name="defaultValue">
-                                                <String></String>
-                                            </field>
-                                            <field name="type">
-                                                <Integer>2</Integer>
-                                            </field>
-                                            <field name="possibleValues">
-                                                <String-array>
-                                                    <String></String>
-                                                </String-array>
-                                            </field>
-                                            <field name="possibleValuesDescriptions">
-                                                <String-array>
-                                                    <String></String>
-                                                </String-array>
-                                            </field>
-                                        </ditaParameter>
                                         <ditaParameter>
                                             <field name="name">
                                                 <String>webhelp.logo.image</String>
@@ -377,6 +368,33 @@
                                             <field name="possibleValuesDescriptions">
                                                 <String-array>
                                                     <String></String>
+                                                    <String></String>
+                                                </String-array>
+                                            </field>
+                                        </ditaParameter>
+                                        <ditaParameter>
+                                            <field name="name">
+                                                <String>webhelp.fragment.before.main.page.search</String>
+                                            </field>
+                                            <field name="description">
+                                                <null/>
+                                            </field>
+                                            <field name="value">
+                                                <String>&lt;div style='text-align:center;font-size:4em;color:gray'>What are you looking for?&lt;/div></String>
+                                            </field>
+                                            <field name="defaultValue">
+                                                <String></String>
+                                            </field>
+                                            <field name="type">
+                                                <Integer>2</Integer>
+                                            </field>
+                                            <field name="possibleValues">
+                                                <String-array>
+                                                    <String></String>
+                                                </String-array>
+                                            </field>
+                                            <field name="possibleValuesDescriptions">
+                                                <String-array>
                                                     <String></String>
                                                 </String-array>
                                             </field>
@@ -446,9 +464,6 @@
                                 <field name="openInBrowser">
                                     <Boolean>true</Boolean>
                                 </field>
-                                <field name="outputFile">
-                                    <null/>
-                                </field>
                                 <field name="outputResource">
                                     <null/>
                                 </field>
@@ -495,7 +510,7 @@
             </serialized>
         </options>
     </meta>
-    <projectTree name="talking-circle.xpr">
+    <projectTree name="sample.xpr">
         <folder path="."/>
     </projectTree>
 </project>

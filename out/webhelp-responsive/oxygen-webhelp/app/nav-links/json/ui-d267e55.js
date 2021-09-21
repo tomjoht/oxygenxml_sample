@@ -1,1 +1,0 @@
-define({"topics":[{"title":"Talk Selection Screen","shortdesc":"<p class=\"shortdesc\">The login screen is the first screen of the application<\/p>","href":"topics\/login_screen.html","attributes":{"data-id":"login_screen"},"menu":{"hasChildren":false},"tocID":"login_screen-d267e69","topics":[]}]});

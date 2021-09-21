@@ -3,3 +3,5 @@
 out/*
 markdown-dita/out/*
 markdown-dita/out/
+*/.DS_Store/*
+.DS_Store
