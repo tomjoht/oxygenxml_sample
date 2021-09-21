@@ -1,6 +1,6 @@
 # Water hose
 
-A water hose is useful for cleaning and gardening projects around the yard.
+A water hose is useful for cleaning and gardening projects around the yard. This is a small edit.
 
 Keep the hose coiled on a large hook near a water spout.
 
